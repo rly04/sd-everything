@@ -1,0 +1,9 @@
+.cookie-notice {
+    background: navy;
+    color: white;
+    padding: 20px;
+    width: 100px;
+    height: 70px;
+    position: fixed;
+    bottom: 0px;
+}
