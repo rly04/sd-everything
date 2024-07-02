@@ -1,0 +1,23 @@
+.image-container {
+    background: black;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+}
+
+h2 {
+    color: green;
+    padding: 20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.image-container2 {
+    background: black;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+}
