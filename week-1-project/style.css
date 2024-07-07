@@ -1,0 +1,53 @@
+* {
+    font-family: monospace;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    display: flex;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+}
+
+#pageOne {
+    position: relative;
+}
+
+h1 {
+    position: relative;
+    
+    height: 100vh;
+    font-size: 60px;
+
+}
+
+a {
+    position: relative;
+    height: 100vh;
+    color: white;
+    border: solid white;
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
+    bottom: 750px;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+
+p { 
+    font-size: 18px;
+    bottom: 900px;
+}
+
+
+
