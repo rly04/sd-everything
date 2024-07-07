@@ -9,33 +9,31 @@ body {
 
 img {
     display: flex;
-    position: absolute;
+    
     height: 100vh;
     width: 100vw;
     margin: 0px;
 }
 
-#pageOne {
-    position: relative;
+.pageOne {
+    background-image: url(./images/xT45PKPeNkBcOf6aQckwQ08r8CM69Ehll4Z4f11G.jpg);
+    height: 100vh;
 }
 
+.title {
+    position: absolute;
+}
 h1 {
-    position: relative;
-    
-    height: 100vh;
     font-size: 60px;
-
 }
 
 a {
-    position: relative;
     height: 100vh;
     color: white;
     border: solid white;
     font-size: 18px;
     text-decoration: none;
     border: none;
-    bottom: 750px;
 }
 
 a:hover {
@@ -49,5 +47,8 @@ p {
     bottom: 900px;
 }
 
+footer {
+    text-align: center;
+}
 
 
